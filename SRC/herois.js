@@ -1,6 +1,6 @@
 let heroi = "gericó"
 let xp = 9987
-let nivel_heroi
+let nivel_heroi = " "
 switch (true){
 case xp < 1000:
 nivel_heroi = "Ferro"
